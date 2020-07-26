@@ -30,9 +30,9 @@
                         Work
                     </router-link>
 
-                    <router-link to="/about" class="navbar-item" @click.native="closeMenu">
-                        About
-                    </router-link>
+<!--                    <router-link to="/about" class="navbar-item" @click.native="closeMenu">-->
+<!--                        About-->
+<!--                    </router-link>-->
                 </div>
 
                 <div class="navbar-end">

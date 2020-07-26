@@ -17,11 +17,11 @@
                     </span>
                 </div>
                 <time :datetime="content.startDate">
-                    {{new Date(content.startDate).toDateString()}}
+                    {{new Date(content.startDate).toLocaleDateString('ko-KR')}}
                 </time>
                 ~
                 <time :datetime="content.endDate">
-                    {{new Date(content.startDate).toDateString()}}
+                    {{new Date(content.endDate).toLocaleDateString('ko-KR')}}
                 </time>
             </div>
         </div>
