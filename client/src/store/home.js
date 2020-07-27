@@ -45,6 +45,7 @@ const home = {
                     </ul>
                     <p>ETC</p>
                     <ul>
+                        <li>lucy-xss-filter</li>
                         <li>Ubuntu</li>
                         <li>Git/GitHub/GitLab</li>
                         <li>Subversion</li>
