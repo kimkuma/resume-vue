@@ -32,6 +32,6 @@ export default {
         padding: 0.15rem;
         margin-bottom: 0.5rem;
         overflow-x: auto;
-        white-space: nowrap;
+        /*white-space: nowrap;*/
     }
 </style>
