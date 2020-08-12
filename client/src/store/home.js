@@ -49,7 +49,6 @@ const home = {
                         <li>Ubuntu</li>
                         <li>Git/GitHub/GitLab</li>
                         <li>Subversion</li>
-                        <li>IntelliJ</li>
                         <li>ActiveMQ</li>
                         <li>Maven/Gradle</li>
                     </ul>
