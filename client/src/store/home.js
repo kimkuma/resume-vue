@@ -9,8 +9,7 @@ const home = {
                 `
                     <h1>OBJECTIVE</h1>
                     <p>웹 개발자로 서버사이드 개발 및 프론트엔드 개발 경험이 있습니다.<br/>
-                       Java, Spring Framework, Spring boot, JavaScript, Git, MySQL, MariaDB, Oracle, React.js, AWS 등의 기술을 사용하여 개발 및 운영한 경험이 있습니다.<br/>
-                       빠르게 발전하는 IT 업계에서 뒤쳐지지 않기 위해서 새로운 기술의 흐름을 파악하려고 노력하고 있습니다.
+                       Java, Spring Framework, Spring boot, JavaScript, Git, MySQL, MariaDB, Oracle, React.js, AWS 등의 기술을 사용하여 개발 및 운영한 경험이 있습니다.
                     </p>
                 `,
             },
