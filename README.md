@@ -11,5 +11,5 @@ yarn start
 # Docker
 ```shell
 docker build -t vue-portfolio .
-docker run -d -p 3000:3000 --name vue-portfolio --restart:always vue-portfolio
+docker run --name vue-portfolio -d --restart=always --publish 3000:3000 vue-portfolio
 ```
